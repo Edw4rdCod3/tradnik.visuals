@@ -8,7 +8,7 @@ function Home() {
     <div className='app'>
 
 
-      <div className='homepage'>
+     
 			<div className='container'>
 					<div class="card">
 						
@@ -27,7 +27,7 @@ function Home() {
 
 		
 			</div>
-    	</div>
+ 
 
     </div>
 	);
