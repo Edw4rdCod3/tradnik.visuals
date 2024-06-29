@@ -4,12 +4,6 @@ import { FaBars } from "react-icons/fa";
 import brush from './profile.png'
 
 function Home() {
-
-	
-
-
-
-
 	return (
     <div className='app'>
 
