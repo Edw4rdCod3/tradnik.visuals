@@ -1,7 +1,7 @@
 {
   "name": "swag",
   "version": "0.1.0",
-  "homepage": "https://edw4rdcod3.github.io/tradnik.visuals/",
+  "homepage": "https://edw4rdcod3.github.io",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
