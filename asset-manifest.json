@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tradnik.visuals/static/css/main.9b8c6581.css",
+    "main.js": "/tradnik.visuals/static/js/main.59b2e008.js",
+    "static/js/787.58d93c45.chunk.js": "/tradnik.visuals/static/js/787.58d93c45.chunk.js",
+    "static/media/profile.png": "/tradnik.visuals/static/media/profile.ca8b5bb2cd4cf66aadc2.png",
+    "static/media/hand.png": "/tradnik.visuals/static/media/hand.00725bcb119682060850.png",
+    "static/media/tshirt.png": "/tradnik.visuals/static/media/tshirt.cce254c2e3a348037fd8.png",
+    "static/media/bullet.png": "/tradnik.visuals/static/media/bullet.154ba42ee1584545f8c6.png",
+    "static/media/money.png": "/tradnik.visuals/static/media/money.492a49e81a541d866407.png",
+    "static/media/money2.png": "/tradnik.visuals/static/media/money2.1d8a4bcc1d9ee54b5fb2.png",
+    "static/media/skull.png": "/tradnik.visuals/static/media/skull.87f55c24255fb09706c8.png",
+    "static/media/brush.png": "/tradnik.visuals/static/media/brush.2b2bcd8ccd33eb158e7c.png",
+    "static/media/wise monkey 1.png": "/tradnik.visuals/static/media/wise monkey 1.63bbd1fb5ffca7c3d440.png",
+    "static/media/logo.svg": "/tradnik.visuals/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/calendar.svg": "/tradnik.visuals/static/media/calendar.7fd2d8adb0a0332a3e0b6b51855f79d4.svg",
+    "static/media/instagram.svg": "/tradnik.visuals/static/media/instagram.5511942c62b8616c8afd6e36bded2254.svg",
+    "index.html": "/tradnik.visuals/index.html",
+    "main.9b8c6581.css.map": "/tradnik.visuals/static/css/main.9b8c6581.css.map",
+    "main.59b2e008.js.map": "/tradnik.visuals/static/js/main.59b2e008.js.map",
+    "787.58d93c45.chunk.js.map": "/tradnik.visuals/static/js/787.58d93c45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8c6581.css",
+    "static/js/main.59b2e008.js"
+  ]
+}
